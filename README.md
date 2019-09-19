@@ -1,2 +1,0 @@
-# blmLand
-Created with CodeSandbox
